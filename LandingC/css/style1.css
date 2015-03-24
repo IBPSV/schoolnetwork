@@ -1,0 +1,31 @@
+	
+			/*cambiar estilos*/
+			
+			#contenedor{
+				margin: 0px auto;
+				height: 100%;
+				width: 100%;
+				text-align: center;
+				margin-top: 170px;
+				clear: left;
+
+			}
+			#textosuperior{
+				margin-top: 5px;
+				font-family: Arial;
+				font-size: 20px;
+				color: #f05152;
+			}
+			#countbox{
+				font-size: 30px;
+				font-family:Tahoma;
+				background: #f05152;
+				color: #fff;
+				padding: 10px 0;
+				margin: 20px auto 0;
+			}
+			#textoinferior{
+				font-size: 10px;
+				font-family: Arial;
+				margin-top: 20px;
+			}
